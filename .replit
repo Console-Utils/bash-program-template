@@ -1,1 +1,1 @@
-run = "bash main.sh"
+run = "chmod +x main.sh main.tests.bats && ./main.tests.bats && ./main.sh"
