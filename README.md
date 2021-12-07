@@ -13,6 +13,7 @@ Template for faster writing Bash scripts in Repl.it.
   - [tldr](https://search.nixos.org/packages?channel=21.05&show=tldr&from=0&size=50&sort=relevance&type=packages&query=tldr)
   - [tree](https://search.nixos.org/packages?channel=21.05&show=tree&from=0&size=50&sort=relevance&type=packages&query=tree)
   - [bc](https://search.nixos.org/packages?channel=21.11&show=bc&from=0&size=50&sort=relevance&type=packages&query=bc)
+  - [shellcheck](https://search.nixos.org/packages?channel=21.11&show=shellcheck&from=0&size=50&sort=relevance&type=packages&query=shellcheck)
 - Shell aliases:
   - `Fish`:
     - `abbr -a -U -- e echo`

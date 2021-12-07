@@ -14,5 +14,6 @@
     pkgs.tldr
     pkgs.tree
     pkgs.bc
+    pkgs.shellcheck
   ];
 }
