@@ -18,8 +18,14 @@ Template for faster writing Bash scripts in Repl.it.
   - `Fish`:
     - `abbr -a -U -- e echo`
     - `abbr -a -U -- pf printf`
-    - `abbr -a -U -- f for`
     - `abbr -a -U -- i 'if test'`
     - `abbr -a -U -- w 'while test'`
+    - `abbr -a -U -- f for`
+  - `Elvish`:
+    - `edit:small-word-abbr['e'] = 'echo'`
+    - `edit:small-word-abbr['pf'] = 'printf'`
+    - `edit:small-word-abbr['i'] = 'if'`
+    - `edit:small-word-abbr['w'] = 'while'`
+    - `edit:small-word-abbr['f'] = 'for'`
   - `Bash`:
     - Bash aliases will be added as soon as .bashrc config and others the same in the $HOME directory are not cleared at every page reload.
